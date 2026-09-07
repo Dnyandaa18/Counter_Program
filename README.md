@@ -1,4 +1,3 @@
-# Counter_Program
 # Counter Program
 
 A simple and interactive **Counter Program** built using **HTML, CSS, and JavaScript**.
