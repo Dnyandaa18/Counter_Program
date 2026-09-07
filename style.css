@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(213, 241, 243);
+}
+#heading{
+    text-align: center;
+    color:rgb(41, 114, 140);
+    font-size: 4em;
+}
+#countNum{
+    display: block;
+    text-align: center;
+    font-size: 9em;
+}
+#buttonContainer{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.button{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    background-color: rgb(154, 195, 238);
+    color: rgb(45, 142, 174);
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.button:hover{
+    background-color: rgb(11, 74, 96);
+}
