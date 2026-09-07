@@ -18,8 +18,7 @@ This project was created as a hands-on practice project while learning the funda
 ## Preview
 
 <p align="center">
-  <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56832490-e064-45e4-9f9d-b20f3d47f73c" />
-" alt="Counter Program Preview" width="700">
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56832490-e064-45e4-9f9d-b20f3d47f73c" />
 </p>
 
 ## How It Works
