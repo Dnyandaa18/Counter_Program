@@ -70,45 +70,21 @@ While building this project, I practiced and understood:
 ## Output
 ### Increment
 
-<!--
-Add screenshot showing the counter after incrementing here
--->
-
 <p align="center">
-  <img src="YOUR_INCREMENT_SCREENSHOT_PATH_HERE" alt="Counter Program Increment" width="700">
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75c833a5-d22b-4bf2-8dd5-e050fc00428f" />
 </p>
 
 ### Decrement
 
-<!--
-Add screenshot showing the counter after decrementing here
--->
-
 <p align="center">
-  <img src="YOUR_DECREMENT_SCREENSHOT_PATH_HERE" alt="Counter Program Decrement" width="700">
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33897ca3-7a1b-4507-a935-b31b7f80eb01" />
 </p>
 
 ### Reset
 
-<!--
-Add screenshot showing the counter after resetting here
--->
-
 <p align="center">
-  <img src="YOUR_RESET_SCREENSHOT_PATH_HERE" alt="Counter Program Reset" width="700">
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/366b2969-32e0-4415-adf0-eab51ea9568d" />
 </p>
-
-## Future Improvements
-
-Some improvements I may explore in future versions:
-
-* Add keyboard controls
-* Add a customizable increment/decrement value
-* Improve responsive design
-* Add animations for counter changes
-* Add a dark mode
-* Improve accessibility
-* Add local storage to preserve the counter value after refreshing
 
 ## Purpose
 
